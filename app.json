@@ -1,0 +1,7 @@
+{
+    "name": "Whois",
+    "repository": "https://github.com/andreif/whois",
+    "buildpacks": [{"url": "https://github.com/andreif/wsgi"}],
+    "logo": "http://i.imgur.com/12s2VoU.png",
+    "keywords": []
+}
